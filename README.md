@@ -63,7 +63,8 @@ cd pump-dump-detection
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py```
+streamlit run app.py
+```
 #🏆 Hackathon Relevance
 
 Problem statement: "Detecting stock market manipulation in the Indian market"
@@ -72,8 +73,9 @@ Solution: Supervised ML pipeline + Streamlit demo
 
 Impact: Investor protection & regulatory monitoring
 
-👩‍💻 Author
+#👩‍💻 Author
 
-Aayushi Mishra
+Aayushi Mishra and Aniwesh Tiwari
+
 Data Scientist | Kaggle Expert | Hackathon Enthusiast
 🔗 GitHub
