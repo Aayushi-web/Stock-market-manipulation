@@ -1,6 +1,6 @@
 # 🚀 Pump & Dump Detection in Indian Stock Market
 
-![Pump & Dump Detection](A_banner_image_for_a_hackathon_project_titled_"Pum.png)
+
 
 > 🔍 **Hackathon Project** — Detecting Stock Market Manipulation using Supervised Learning (Indian Market Focus)
 
